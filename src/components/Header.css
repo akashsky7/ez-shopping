@@ -61,7 +61,9 @@
 }
 
 .header__brandname{
-    margin: 0 25px 0 5px
+    margin: 10px 25px 0 5px;
+    color: black;
+    font-weight: 700;
 }
 
 .header__optionBasket{
