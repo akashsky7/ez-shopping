@@ -9,6 +9,11 @@
     max-height: 400px;
     background-color: white;
     z-index: 1;
+    transition: 0.15s;
+}
+
+.product:hover{
+    transform: scale(1.05);
 }
 
 .product > img{
